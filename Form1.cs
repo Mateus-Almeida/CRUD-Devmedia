@@ -60,7 +60,7 @@ namespace Crud
 		{
             if (novo)
             {
-                string sql = "INSERT INTO CLIENTE (NOME, ENDERECO, CEP, BAIRRO, CIDADE, UF, TELEFONE); "
+                string sql = "INSERT INTO CLIENTE (NOME, ENDERECO, CEP, BAIRRO, CIDADE, UF, TELEFONE)"
                       + "VALUES ('" + txtNome.Text + "', '" + txtEndereco.Text + "', '"
                       + mskCep.Text + "', '" + txtBairro.Text
                       + "', '" + txtCidade.Text + "', '" + txtUf.Text + "', '"

@@ -71,7 +71,7 @@ namespace Crud
             this.tsbBuscar});
 			this.toolStrip1.Location = new System.Drawing.Point(0, 0);
 			this.toolStrip1.Name = "toolStrip1";
-			this.toolStrip1.Size = new System.Drawing.Size(420, 25);
+			this.toolStrip1.Size = new System.Drawing.Size(416, 25);
 			this.toolStrip1.TabIndex = 0;
 			this.toolStrip1.Text = "toolStrip1";
 			// 
@@ -144,7 +144,7 @@ namespace Crud
 			// ID
 			// 
 			this.ID.AutoSize = true;
-			this.ID.Location = new System.Drawing.Point(13, 30);
+			this.ID.Location = new System.Drawing.Point(12, 26);
 			this.ID.Name = "ID";
 			this.ID.Size = new System.Drawing.Size(18, 15);
 			this.ID.TabIndex = 1;
@@ -152,7 +152,7 @@ namespace Crud
 			// 
 			// txtId
 			// 
-			this.txtId.Location = new System.Drawing.Point(13, 48);
+			this.txtId.Location = new System.Drawing.Point(12, 44);
 			this.txtId.Name = "txtId";
 			this.txtId.ReadOnly = true;
 			this.txtId.Size = new System.Drawing.Size(52, 23);
@@ -161,7 +161,7 @@ namespace Crud
 			// label2
 			// 
 			this.label2.AutoSize = true;
-			this.label2.Location = new System.Drawing.Point(74, 30);
+			this.label2.Location = new System.Drawing.Point(73, 26);
 			this.label2.Name = "label2";
 			this.label2.Size = new System.Drawing.Size(40, 15);
 			this.label2.TabIndex = 3;
@@ -170,7 +170,7 @@ namespace Crud
 			// txtNome
 			// 
 			this.txtNome.CharacterCasing = System.Windows.Forms.CharacterCasing.Upper;
-			this.txtNome.Location = new System.Drawing.Point(74, 49);
+			this.txtNome.Location = new System.Drawing.Point(73, 44);
 			this.txtNome.MaxLength = 50;
 			this.txtNome.Name = "txtNome";
 			this.txtNome.Size = new System.Drawing.Size(334, 23);
@@ -179,7 +179,7 @@ namespace Crud
 			// txtEndereco
 			// 
 			this.txtEndereco.CharacterCasing = System.Windows.Forms.CharacterCasing.Upper;
-			this.txtEndereco.Location = new System.Drawing.Point(13, 93);
+			this.txtEndereco.Location = new System.Drawing.Point(12, 89);
 			this.txtEndereco.MaxLength = 50;
 			this.txtEndereco.Name = "txtEndereco";
 			this.txtEndereco.Size = new System.Drawing.Size(395, 23);
@@ -188,7 +188,7 @@ namespace Crud
 			// label3
 			// 
 			this.label3.AutoSize = true;
-			this.label3.Location = new System.Drawing.Point(13, 74);
+			this.label3.Location = new System.Drawing.Point(12, 70);
 			this.label3.Name = "label3";
 			this.label3.Size = new System.Drawing.Size(56, 15);
 			this.label3.TabIndex = 5;
@@ -197,7 +197,7 @@ namespace Crud
 			// txtBairro
 			// 
 			this.txtBairro.CharacterCasing = System.Windows.Forms.CharacterCasing.Upper;
-			this.txtBairro.Location = new System.Drawing.Point(85, 138);
+			this.txtBairro.Location = new System.Drawing.Point(84, 134);
 			this.txtBairro.MaxLength = 50;
 			this.txtBairro.Name = "txtBairro";
 			this.txtBairro.Size = new System.Drawing.Size(209, 23);
@@ -207,7 +207,7 @@ namespace Crud
 			// label4
 			// 
 			this.label4.AutoSize = true;
-			this.label4.Location = new System.Drawing.Point(85, 120);
+			this.label4.Location = new System.Drawing.Point(84, 116);
 			this.label4.Name = "label4";
 			this.label4.Size = new System.Drawing.Size(38, 15);
 			this.label4.TabIndex = 7;
@@ -216,16 +216,16 @@ namespace Crud
 			// txtCidade
 			// 
 			this.txtCidade.CharacterCasing = System.Windows.Forms.CharacterCasing.Upper;
-			this.txtCidade.Location = new System.Drawing.Point(298, 138);
+			this.txtCidade.Location = new System.Drawing.Point(297, 134);
 			this.txtCidade.MaxLength = 50;
 			this.txtCidade.Name = "txtCidade";
-			this.txtCidade.Size = new System.Drawing.Size(85, 23);
+			this.txtCidade.Size = new System.Drawing.Size(83, 23);
 			this.txtCidade.TabIndex = 7;
 			// 
 			// label5
 			// 
 			this.label5.AutoSize = true;
-			this.label5.Location = new System.Drawing.Point(298, 120);
+			this.label5.Location = new System.Drawing.Point(297, 116);
 			this.label5.Name = "label5";
 			this.label5.Size = new System.Drawing.Size(44, 15);
 			this.label5.TabIndex = 9;
@@ -234,16 +234,16 @@ namespace Crud
 			// txtUf
 			// 
 			this.txtUf.CharacterCasing = System.Windows.Forms.CharacterCasing.Upper;
-			this.txtUf.Location = new System.Drawing.Point(387, 138);
+			this.txtUf.Location = new System.Drawing.Point(382, 134);
 			this.txtUf.MaxLength = 2;
 			this.txtUf.Name = "txtUf";
-			this.txtUf.Size = new System.Drawing.Size(21, 23);
+			this.txtUf.Size = new System.Drawing.Size(25, 23);
 			this.txtUf.TabIndex = 8;
 			// 
 			// label6
 			// 
 			this.label6.AutoSize = true;
-			this.label6.Location = new System.Drawing.Point(387, 120);
+			this.label6.Location = new System.Drawing.Point(386, 116);
 			this.label6.Name = "label6";
 			this.label6.Size = new System.Drawing.Size(21, 15);
 			this.label6.TabIndex = 11;
@@ -252,7 +252,7 @@ namespace Crud
 			// label7
 			// 
 			this.label7.AutoSize = true;
-			this.label7.Location = new System.Drawing.Point(13, 120);
+			this.label7.Location = new System.Drawing.Point(12, 116);
 			this.label7.Name = "label7";
 			this.label7.Size = new System.Drawing.Size(28, 15);
 			this.label7.TabIndex = 13;
@@ -261,7 +261,7 @@ namespace Crud
 			// label8
 			// 
 			this.label8.AutoSize = true;
-			this.label8.Location = new System.Drawing.Point(13, 164);
+			this.label8.Location = new System.Drawing.Point(12, 160);
 			this.label8.Name = "label8";
 			this.label8.Size = new System.Drawing.Size(51, 15);
 			this.label8.TabIndex = 15;
@@ -269,7 +269,7 @@ namespace Crud
 			// 
 			// mskCep
 			// 
-			this.mskCep.Location = new System.Drawing.Point(13, 138);
+			this.mskCep.Location = new System.Drawing.Point(12, 134);
 			this.mskCep.Mask = "00000-999";
 			this.mskCep.Name = "mskCep";
 			this.mskCep.Size = new System.Drawing.Size(70, 23);
@@ -277,17 +277,17 @@ namespace Crud
 			// 
 			// mskTelefone
 			// 
-			this.mskTelefone.Location = new System.Drawing.Point(13, 182);
+			this.mskTelefone.Location = new System.Drawing.Point(12, 178);
 			this.mskTelefone.Mask = "(99) 00000-0000";
 			this.mskTelefone.Name = "mskTelefone";
-			this.mskTelefone.Size = new System.Drawing.Size(99, 23);
+			this.mskTelefone.Size = new System.Drawing.Size(97, 23);
 			this.mskTelefone.TabIndex = 9;
 			// 
 			// FrmCadastroCliente
 			// 
 			this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 15F);
 			this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-			this.ClientSize = new System.Drawing.Size(420, 216);
+			this.ClientSize = new System.Drawing.Size(416, 207);
 			this.Controls.Add(this.mskTelefone);
 			this.Controls.Add(this.mskCep);
 			this.Controls.Add(this.label8);
