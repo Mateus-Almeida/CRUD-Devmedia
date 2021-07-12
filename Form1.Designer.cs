@@ -174,7 +174,7 @@ namespace Crud
 			this.txtNome.MaxLength = 50;
 			this.txtNome.Name = "txtNome";
 			this.txtNome.Size = new System.Drawing.Size(334, 23);
-			this.txtNome.TabIndex = 4;
+			this.txtNome.TabIndex = 3;
 			// 
 			// txtEndereco
 			// 
@@ -183,7 +183,7 @@ namespace Crud
 			this.txtEndereco.MaxLength = 50;
 			this.txtEndereco.Name = "txtEndereco";
 			this.txtEndereco.Size = new System.Drawing.Size(395, 23);
-			this.txtEndereco.TabIndex = 6;
+			this.txtEndereco.TabIndex = 4;
 			// 
 			// label3
 			// 
@@ -201,7 +201,7 @@ namespace Crud
 			this.txtBairro.MaxLength = 50;
 			this.txtBairro.Name = "txtBairro";
 			this.txtBairro.Size = new System.Drawing.Size(209, 23);
-			this.txtBairro.TabIndex = 8;
+			this.txtBairro.TabIndex = 6;
 			this.txtBairro.Text = " ";
 			// 
 			// label4
@@ -220,7 +220,7 @@ namespace Crud
 			this.txtCidade.MaxLength = 50;
 			this.txtCidade.Name = "txtCidade";
 			this.txtCidade.Size = new System.Drawing.Size(85, 23);
-			this.txtCidade.TabIndex = 10;
+			this.txtCidade.TabIndex = 7;
 			// 
 			// label5
 			// 
@@ -238,7 +238,7 @@ namespace Crud
 			this.txtUf.MaxLength = 2;
 			this.txtUf.Name = "txtUf";
 			this.txtUf.Size = new System.Drawing.Size(21, 23);
-			this.txtUf.TabIndex = 12;
+			this.txtUf.TabIndex = 8;
 			// 
 			// label6
 			// 
@@ -273,7 +273,7 @@ namespace Crud
 			this.mskCep.Mask = "00000-999";
 			this.mskCep.Name = "mskCep";
 			this.mskCep.Size = new System.Drawing.Size(70, 23);
-			this.mskCep.TabIndex = 16;
+			this.mskCep.TabIndex = 5;
 			// 
 			// mskTelefone
 			// 
@@ -281,7 +281,7 @@ namespace Crud
 			this.mskTelefone.Mask = "(99) 00000-0000";
 			this.mskTelefone.Name = "mskTelefone";
 			this.mskTelefone.Size = new System.Drawing.Size(99, 23);
-			this.mskTelefone.TabIndex = 17;
+			this.mskTelefone.TabIndex = 9;
 			// 
 			// FrmCadastroCliente
 			// 
